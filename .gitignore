@@ -1,0 +1,10 @@
+# User-Specific Files
+*.suo
+*.user
+
+# Visual Studio Working Directory
+.vs
+
+# Build Results
+**/bin
+**/obj
